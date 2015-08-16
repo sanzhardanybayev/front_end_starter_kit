@@ -1,0 +1,118 @@
+.noMargin
+{
+	margin:0 !important;
+}
+
+.noLeftMargin
+{
+	margin-left: 0 !important;
+}
+
+.noRightMargin
+{
+ 	margin-right: 0 !important;
+}
+
+.noTopMargin
+{
+	margin-top:  0 !important;	
+}
+
+.noBottomMargin
+{
+	margin-bottom:  0 !important;
+}
+
+.noPadding
+{
+	padding:0 !important;
+}
+
+.noLeftPadding
+{
+	padding-left: 0 !important;
+}
+
+.noRightPadding
+{
+ 	padding-right: 0 !important;
+}
+
+.noTopPadding
+{
+	padding-top:  0 !important;	
+}
+
+.noBottomPadding
+{
+	padding-bottom:  0 !important;
+}
+
+
+
+.left {
+  float: left !important; }
+
+.right {
+  float: right !important; }
+
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table; }
+.clearfix:after {
+  clear: both; }
+
+
+.initialCase
+{
+  text-transform: initial !important;
+}
+.uppercase
+{
+  text-transform: uppercase;
+}
+
+.clear
+{
+  clear:both;
+}
+.noAlign
+{
+  text-align: left;
+}
+.center
+{
+  text-align: center !important;
+}
+
+.inline-block
+{
+  display: inline-block;
+}
+
+.clear
+{
+  clear: both;
+}
+
+.notDisplay
+{
+  display:none !important;
+}
+
+.displayBlock
+{
+  display:block !important;
+}
+
+
+.noFloat
+{
+  float: none !important;
+}
+
+.centerIt
+{
+  display: block;
+  margin:0 auto !important;
+}
